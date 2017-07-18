@@ -21,3 +21,8 @@ defaults:
   values:
     layout: page
 permalink: pretty
+
+description: 
+google_analytics: UA-18735542-2
+show_downloads: true
+theme: jekyll-theme-architect
